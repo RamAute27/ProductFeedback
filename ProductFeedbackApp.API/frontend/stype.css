@@ -1,0 +1,7 @@
+﻿body {
+    display: flex;
+    flex-direction: column; /* stack items vertically */
+    justify-content: center; /* center vertically */
+    align-items: center; /* center horizontally */
+    height: 100vh;
+}
